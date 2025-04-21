@@ -2,6 +2,11 @@
 
 
 ignore
+ignore/rclone_upload.sh
+data
+dino/grounding
+eval
+llava/train/wandb
 
 __pycache__/
 *.py[cod]
