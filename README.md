@@ -5,10 +5,10 @@ We introduce MedVP, an visual prompt generation and fine-tuning framework, which
 **Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations** [[Paper](https://arxiv.org/pdf/2501.02385)] <br>
 
 ## 🌟 Requirements
-1. Clone this repository and navigate to RULE folder
+1. Clone this repository and navigate to MedVP folder
 ```bash
 git clone https://github.com/Kelvinz-89757/MedVP.git
-cd RULE
+cd MedVP
 ```
 
 2. Install Package: Create conda environment
