@@ -66,7 +66,7 @@ Using the entities extracted from questions via ChatGLM, Grounding DINO is used 
 
 ## 🔍 Inference
 
-- For test dataset inference, we provide two inference scripts, one for Closed/Open-form QA, another for Multiple-choice QA (e.g., PMC-VQA). They are located in the `inference` folder.
+- For test dataset inference, we provide two inference scripts, one for Closed/Open-form VQA, another for Multiple-choice VQA (e.g., PMC-VQA). They are located in the `inference` folder.
 - A sh script is at `scripts/inference_MedVP.sh`. Before running, ensure that all paths to data and checkpoints are correctly set.
 
 ## 📊 Evaluation
