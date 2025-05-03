@@ -1,4 +1,4 @@
-# [NAACL'25] Guiding Medical Vision-Language Models with Explicit Visual Prompts
+# Guiding Medical Vision-Language Models with Explicit Visual Prompts
 
 We introduce MedVP, an visual prompt generation and fine-tuning framework, which involves extract medical entities, generate visual prompts, and adapt datasets for visual prompt guided fine-tuning.
 
