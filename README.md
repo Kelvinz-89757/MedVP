@@ -37,13 +37,13 @@ We provide the following pretrained and finetuned MedVP-LLaVA and MedTriAligned-
 
 
 **MedVP-LLaVA (SLAKE)**([Google Drive](https://drive.google.com/drive/folders/16mPfdzN3i3G4P2XgPUMoOP96dXYz2Tb4?usp=drive_link))
-- Based on MedTriAligned-LLaVA, finetuned on the SLAKE training set using generated visual prompts.
+- Based on MedTriAligned-LLaVA, finetuned on the SLAKE training set using visual prompts.
 
 **MedVP-LLaVA (VQA-RAD)** ([Google Drive](https://drive.google.com/drive/folders/1hSde7t1FQr1mWHZ3YtN3n0bCYQyu3Tt5?usp=drive_link))
-- Based on MedTriAligned-LLaVA, finetuned on the VQA-RAD training set using generated visual prompts.
+- Based on MedTriAligned-LLaVA, finetuned on the VQA-RAD training set using visual prompts.
 
 **MedVP-LLaVA (PMC-VQA)** ([Google Drive](https://drive.google.com/drive/folders/12bn4JpeEd4gRHfnD7ILavFilsIEwe-fN?usp=drive_link))
-- Based on MedTriAligned-LLaVA, finetuned on the PMC-VQA training set using generated visual prompts.
+- Based on MedTriAligned-LLaVA, finetuned on the PMC-VQA training set using visual prompts.
 
 ## 🧭 Grounding
 
