@@ -25,7 +25,7 @@ pip install -e .
 
 3. For all the medical datasets, you may need to firstly apply for the right of access and then download the dataset.
 - [SLAKE](https://www.med-vqa.com/slake/)
-- [VQA-RAD](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)
+- [VQA-RAD](https://www.nature.com/articles/sdata2018251)
 - [PMC-VQA](https://huggingface.co/datasets/RadGenome/PMC-VQA)
 
 ## 📦 Model Checkpoints
