@@ -2,7 +2,7 @@
 
 We introduce MedVP, an visual prompt generation and fine-tuning framework, which involves extract medical entities, generate visual prompts, and adapt datasets for visual prompt guided fine-tuning.
 
-**Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations** [[Paper](https://arxiv.org/pdf/2501.02385)] <br>
+**Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations** [[Paper](https://arxiv.org/abs/2501.02385)] <br>
 
 ## 🌟 Requirements
 1. Clone this repository and navigate to MedVP folder
